@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @ajaxcruz
 - 👀 I’m interested in learning Texhnology to be precise PC , I watch dozens of contents related to pc and pc building
 - 🌱 I’m currently learning Python and web developtment
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram ajaxcruz
-- 😄 Pronouns: He
+- reach me instagram ajaxcruz
 - ⚡ Fun fact: I am currently studying in high school
-
 - The reason I started programming is that I can create whatever the heck of software of program that i want
 
 <!---
